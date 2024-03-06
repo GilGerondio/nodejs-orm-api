@@ -1,5 +1,5 @@
 {
-  "name": "gerondio-node-mysql-crud-api",
+  "name": "gerondio_nodejs_orm_api",
   "version": "1.0.0",
   "license": "MIT",
   "scripts": {
@@ -11,9 +11,10 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "joi": "^17.2.0",
-    "mysql2": "^2.1.0",
+    "mysql2": "^2.3.3",
     "rootpath": "^0.1.2",
-    "sequelize": "^6.3.4"
+    "sequelize": "^6.37.1",
+    "sqlite3": "^5.1.7"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"

@@ -1,9 +1,9 @@
 {
     "database": {
         "host": "localhost",
-        "port": 4000,
+        "port": 3306,
         "user": "root",
         "password": "",
-        "database": "gerondio-node-mysql-crud-api"
+        "database": "node-mysql-crud-api"
     }
 }
